@@ -69,7 +69,7 @@
     },
     {
       "key": "csp_xpath_gimy",
-      "name": "Gimy",
+      "name": "劇迷",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -108,16 +108,6 @@
       "searchable": 0
     },
     {
-      "key": "JAV名優",
-      "name": "JAV名優",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "playUrl": "",
-      "categories": [],
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
       "key": "速度資源",
       "name": "速度資源",
       "type": 0,
@@ -132,6 +122,16 @@
       "name": "字幕網",
       "type": 0,
       "api": "http://zmcj88.com/sapi?ac=videolist",
+      "playUrl": "",
+      "categories": [],
+      "quickSearch": 0,
+      "searchable": 0
+    },
+    {
+      "key": "JAV名優",
+      "name": "JAV名優",
+      "type": 0,
+      "api": "http://mygzycj.com/api.php?ac=list",
       "playUrl": "",
       "categories": [],
       "quickSearch": 0,
