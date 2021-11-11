@@ -60,9 +60,6 @@
       "api": "https://www.hx2048.com/api.php/provide/vod/",
       "playUrl": "",
       "categories": [
-        "动漫",
-        "电影",
-        "电视剧",
         "国产动漫",
         "日本动漫",
         "欧美动漫",
@@ -97,9 +94,6 @@
       "api": "http://w7tv.com/api.php/provide/vod/",
       "playUrl": "",
       "categories": [
-        "动漫",
-        "电影",
-        "连续剧",
         "国产动漫",
         "日本动漫",
         "欧美动漫",
@@ -139,36 +133,6 @@
         "剧情片",
         "战争片",
         "纪录片",
-        "综艺"
-      ]
-    },
-    {
-      "key": "偵探雲",
-      "name": "偵探雲",
-      "type": 1,
-      "api": "http://ys.huangguay.com/api.php/provide/vod/",
-      "playUrl": "",
-      "categories": [
-        "追番",
-        "动漫",
-        "电影",
-        "连续剧",
-        "综艺"
-      ]
-    },
-    {
-      "key": "追劇雲",
-      "name": "追劇雲",
-      "type": 1,
-      "api": "http://data.zju8.cc:1234/api.php/provide/vod/",
-      "playUrl": "",
-      "categories": [
-        "动漫",
-        "电影",
-        "国产剧",
-        "日韩剧",
-        "港台剧",
-        "欧美剧",
         "综艺"
       ]
     },
