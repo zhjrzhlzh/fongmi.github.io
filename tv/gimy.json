@@ -11,10 +11,10 @@
   "cateId": "/@href",
   "cateIdR": "/browse/(\\w+).html",
   "cateManual": {
-    "电影": "movies",
-    "电视剧": "tvseries",
-    "综艺": "tv_show",
-    "动漫": "anime"
+    "電影": "movies",
+    "電視劇": "tvseries",
+    "綜藝": "tv_show",
+    "動漫": "anime"
   },
   "homeVodNode": "//ul[@class='myui-vodlist clearfix']/li/div/a",
   "homeVodName": "/@title",
@@ -70,7 +70,7 @@
     "movies": [
       {
         "key": "cateId",
-        "name": "分类",
+        "name": "分類",
         "value": [
           {"n": "全部","v": ""},
           {"n": "劇情片","v": "drama"},
@@ -85,7 +85,7 @@
       },
       {
         "key": "area",
-        "name": "地区",
+        "name": "地區",
         "value": [
           {"n": "全部","v": ""},
           {"n": "美國","v": "美國"},
@@ -120,15 +120,15 @@
         "name": "排序",
         "value": [
           {"n": "按更新","v": "time"},
-          {"n": "周人气","v": "hits_week"},
-          {"n": "月人气","v": "hits_month"}
+          {"n": "周人氣","v": "hits_week"},
+          {"n": "月人氣","v": "hits_month"}
         ]
       }
     ],
     "tvseries": [
       {
         "key": "cateId",
-        "name": "分类",
+        "name": "分類",
         "value": [
           {"n": "全部","v": ""},
           {"n": "陸劇","v": "cn"},
@@ -163,15 +163,15 @@
         "name": "排序",
         "value": [
           {"n": "按更新","v": "time"},
-          {"n": "周人气","v": "hits_week"},
-          {"n": "月人气","v": "hits_month"}
+          {"n": "周人氣","v": "hits_week"},
+          {"n": "月人氣","v": "hits_month"}
         ]
       }
     ],
     "anime": [
       {
         "key": "area",
-        "name": "地区",
+        "name": "地區",
         "value": [
           {"n": "全部","v": ""},
           {"n": "日本","v": "日本"},
@@ -204,23 +204,23 @@
         "name": "排序",
         "value": [
           {"n": "按更新","v": "time"},
-          {"n": "周人气","v": "hits_week"},
-          {"n": "月人气","v": "hits_month"}
+          {"n": "周人氣","v": "hits_week"},
+          {"n": "月人氣","v": "hits_month"}
         ]
       }
     ],
     "tv_show": [
       {
         "key": "cateId",
-        "name": "分类",
+        "name": "分類",
         "value": [
           {"n": "全部","v": ""},
-          {"n": "纪录片","v": "28"}
+          {"n": "紀錄片","v": "28"}
         ]
       },
       {
         "key": "area",
-        "name": "地区",
+        "name": "地區",
         "value": [
           {"n": "全部","v": ""},
           {"n": "大陸","v": "大陸"},
@@ -255,8 +255,8 @@
         "name": "排序",
         "value": [
           {"n": "按更新","v": "time"},
-          {"n": "周人气","v": "hits_week"},
-          {"n": "月人气","v": "hits_month"}
+          {"n": "周人氣","v": "hits_week"},
+          {"n": "月人氣","v": "hits_month"}
         ]
       }
     ]
