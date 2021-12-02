@@ -2,17 +2,17 @@
   "spider": "https://github.com/catvod/CatVodTVSpider/raw/master/jar/custom_spider.jar",
   "sites": [
     {
-      "key": "csp_xpath_gimy",
+      "key": "劇迷",
       "name": "劇迷",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "https://fongmi.github.io/tv/gimy.json"
     },
     {
-      "key": "csp_Imaple",
+      "key": "楓林網",
       "name": "楓林網",
       "type": 3,
       "api": "csp_Imaple",
